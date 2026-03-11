@@ -1,12 +1,12 @@
-# tuff explaination
+# tuff explaination 
 
 ts is a subdomain vruh
 
-# why did i create ts shit?
+# why did i create ts shit? 
 
 idk bro
 
-# features
+# features 
 
 .......
 
